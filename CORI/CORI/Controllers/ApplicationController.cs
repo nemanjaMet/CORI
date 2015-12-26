@@ -6,14 +6,13 @@ using System.Web.Mvc;
 
 namespace CORI.Controllers
 {
-    public class HomeController : Controller
+    public class ApplicationController : Controller
     {
         //
-        // GET: /Home/
+        // GET: /Application/
 
         public ActionResult Index()
         {
-            DataLayer.DataLayer test = new DataLayer.DataLayer();
             return View();
         }
 
