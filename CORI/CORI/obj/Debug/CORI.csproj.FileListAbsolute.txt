@@ -24,3 +24,34 @@ c:\users\darko velickovic\documents\visual studio 2013\Projects\CORI\CORI\bin\Sy
 c:\users\darko velickovic\documents\visual studio 2013\Projects\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
 c:\users\darko velickovic\documents\visual studio 2013\Projects\CORI\CORI\obj\Debug\CORI.dll
 c:\users\darko velickovic\documents\visual studio 2013\Projects\CORI\CORI\obj\Debug\CORI.pdb
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\CORI.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\CORI.pdb
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\Antlr3.Runtime.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\EntityFramework.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Net.Http.Formatting.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Http.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Http.WebHost.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Optimization.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Providers.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\WebGrease.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\EntityFramework.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Net.Http.Formatting.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Http.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Http.WebHost.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.dll
+C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.pdb
