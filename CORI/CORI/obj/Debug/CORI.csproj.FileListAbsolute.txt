@@ -55,3 +55,38 @@ C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.xml
 C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
 C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.dll
 C:\Users\Neca\Desktop\GitHub\CORI\CORI\CORI\obj\Debug\CORI.pdb
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\CORI.dll.config
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\CORI.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\CORI.pdb
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\Antlr3.Runtime.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\DataLayer.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\EntityFramework.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Optimization.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Providers.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\WebGrease.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Redis.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Interfaces.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Text.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Common.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\DataLayer.pdb
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\EntityFramework.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Redis.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Text.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Common.xml
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.dll
+C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.pdb
