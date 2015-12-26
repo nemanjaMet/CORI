@@ -19,5 +19,6 @@ namespace DataLayer
             redis.SetValue("test", "PeraBosko", TimeSpan.FromSeconds(20));
             
         }
+        
     }
 }
