@@ -10,3 +10,15 @@ C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\DataLayer\bin\Debug\Service
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.pdb
+E:\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\DataLayer.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\DataLayer.pdb
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Common.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Interfaces.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Redis.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Text.dll
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Common.xml
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Redis.xml
+E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Text.xml
+E:\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.pdb
+E:\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
