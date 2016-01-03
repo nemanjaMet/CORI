@@ -123,6 +123,7 @@ namespace DataLayer
            
             
         }
+<<<<<<< HEAD
 
         public void DeletePerson()
         {
@@ -164,5 +165,8 @@ namespace DataLayer
         {
             return JsonSerializer.SerializeToString<Person>(this);
         }*/
+=======
+        
+>>>>>>> refs/remotes/darko14velickovic/master
     }
 }
