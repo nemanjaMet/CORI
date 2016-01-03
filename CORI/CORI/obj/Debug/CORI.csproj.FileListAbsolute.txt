@@ -90,3 +90,43 @@ C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\bin\ServiceStack.Commo
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.dll
 C:\Users\Darko Velickovic\Documents\GitHub\CORI\CORI\CORI\obj\Debug\CORI.pdb
+E:\GitHub\CORI\CORI\CORI\bin\CORI.dll
+E:\GitHub\CORI\CORI\CORI\bin\CORI.pdb
+E:\GitHub\CORI\CORI\CORI\bin\Antlr3.Runtime.dll
+E:\GitHub\CORI\CORI\CORI\bin\DataLayer.dll
+E:\GitHub\CORI\CORI\CORI\bin\EntityFramework.dll
+E:\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\CORI\CORI\CORI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Net.Http.Formatting.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Http.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Http.WebHost.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Optimization.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Providers.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.dll
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\CORI\CORI\CORI\bin\WebGrease.dll
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Redis.dll
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Interfaces.dll
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Text.dll
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Common.dll
+E:\GitHub\CORI\CORI\CORI\bin\DataLayer.pdb
+E:\GitHub\CORI\CORI\CORI\bin\EntityFramework.xml
+E:\GitHub\CORI\CORI\CORI\bin\Newtonsoft.Json.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Net.Http.Formatting.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Http.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Http.WebHost.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Mvc.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.Razor.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\CORI\CORI\CORI\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Redis.xml
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Text.xml
+E:\GitHub\CORI\CORI\CORI\bin\ServiceStack.Common.xml
+E:\GitHub\CORI\CORI\CORI\obj\Debug\CORI.dll
+E:\GitHub\CORI\CORI\CORI\obj\Debug\CORI.pdb
+E:\GitHub\CORI\CORI\CORI\obj\Debug\CORI.csprojResolveAssemblyReference.cache
