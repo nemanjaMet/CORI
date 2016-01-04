@@ -16,21 +16,26 @@ namespace DataLayer
         readonly RedisClient redis = new RedisClient(Config.SingleHost);
         public DataLayer()
         {
-            test();
+            //test();
         }
-        public void test()
+        public  bool testing(int howMany)
         {
-            //  redis.SetValue("test", "PeraBosko", TimeSpan.FromSeconds(20));
-            //   redis.SetValueIfNotExists("test", "JankoMarko");
-           // AddPerson();  
-          // GetPerson();
-          //  DeletePerson();
-          //  RenamePerson();
+            string testHtml = " <div>\n\t <h1>Testing purpose</h1> \n </div>";
 
-          //  clearDataBase(); NE CACKAJ AKO NE ZNAS !!!
+            for (int i = 0; i < howMany; i++)
+            {
+                var page = new HtmlPage 
+                {
+                    id = i,
+                    name = "pageNumber"+(i+1).ToString(),
+                    html = testHtml,
+                    css = "",
+                    javaScript = ""
+                };
+                redis.StoreAsHash<HtmlPage>(page);
+            }
 
-            //AddHtml();
-            GetHtml();
+                return true;
         }
 
         // --- Mislim da ne dodaje duplikate po istom id-u
@@ -38,6 +43,7 @@ namespace DataLayer
         {
             // var redisUsers = redis.As<Person>();
             // redisUsers.GetNextSequence()
+            
             var toske = new Person { id = 1, name = "Toske pijanac" };
             var milojko = new Person { id = 2, name = "Milojko bre" };
             var tripuskic = new Person { id = 3, name = "Tripuskic bez komentara" };
@@ -50,46 +56,30 @@ namespace DataLayer
             redis.As<Person>().Store(tripuskic);
         }
 
-        public void AddHtml()
+        public void AddUserHtml(string html,long UserID)
         {
+            
+
             string html1 = "";
             string css1 = "";
             string javaScript1 = "";
 
-            html1 = System.IO.File.ReadAllText(@"C:\Users\Neca\Desktop\TxtHtml.txt");
+            html1 = System.IO.File.ReadAllText(@"C:\Users\Darko Velickovic\Desktop\TxtHtml.txt");
 
-            var stranica1 = new HtmlPage { name = "stranica1", html = html1, css = css1, javaScript = javaScript1 };
-           //var stranica2 = new HtmlPage { name = "stranica2", html = "", css = "", javaScript = "" };
-            //var stranica3 = new HtmlPage { name = "stranica3", html = "", css = "", javaScript = "" };
-
-            redis.As<HtmlPage>().StoreAsHash(stranica1);
-            //redis.As<HtmlPage>().StoreAsHash(stranica2);
-            //redis.As<HtmlPage>().StoreAsHash(stranica3);
+            var stranica1 = new HtmlPage { id = UserID ,name = "stranica1", html = html1, css = css1, javaScript = javaScript1 };
+           
+            redis.StoreAsHash<HtmlPage>(stranica1);
+            
         }
 
-        public void GetHtml()
+        public string GetHtml(long UserID)
         {
-            string html = "";
+            //string html = "";
 
-            HtmlPage hp = redis.GetFromHash<HtmlPage>("urn:htmlpage:51438283"); // ne radi
-
-            IList<string> s1 = redis.GetHashValues("urn:htmlpage:51438283"); // vraća sve atribute kao stringove
-
-            var hash = redis.GetAllEntriesFromHash("urn:htmlpage:51438283");  // treba se kastuje verovatno
-            
-            // Ne radi
-          /*  IList<HtmlPage> p1 = redis.As<HtmlPage>().GetAll();
-
-            if (p1 != null)
-            {
-                foreach (HtmlPage p in p1)
-                {
-                    // Console.WriteLine("Id osobe: " + p.id );
-                    // Console.WriteLine("Ime osobe: " + p.name );
-                    html = p.html;
-                    File.AppendAllText(@"C:\Users\Neca\Desktop\Test.html", html);
-                }
-            }*/
+           // HtmlPage hp = redis.GetFromHash<HtmlPage>("urn:htmlpage:51438283"); // ne radi
+            HtmlPage hp2 = redis.GetFromHash<HtmlPage>(UserID);
+          
+            return hp2.html;
         }
 
         public void GetPerson()
@@ -149,13 +139,17 @@ namespace DataLayer
 
         public class HtmlPage
         {
+            public long id { get; set; }
             public string name { get; set; }
             public string html { get; set; }
             public string css { get; set; }
             public string javaScript { get; set; }
         }
 
-        public void clearDataBase()
+        /// <summary>
+        /// full database wipe (be carefull)
+        /// </summary>
+        private void clearDataBase()
         {
             redis.FlushAll();
         }

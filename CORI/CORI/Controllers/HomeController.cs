@@ -12,8 +12,14 @@ namespace CORI.Controllers
         // GET: /Home/
 
         public ActionResult Index()
+        
         {
             DataLayer.DataLayer test = new DataLayer.DataLayer();
+            test.testing(6);
+            return View();
+        }
+        public ActionResult App()
+        {
             return View();
         }
 

@@ -1,0 +1,76 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Just another Website">
+    <meta name="author" content="Committee Team">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script src="~/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.11.4.min.js"></script>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <title>CORI</title>
+    <style>
+        #sortable1, #sortable2 {
+            border: 1px solid black;
+            width: 142px;
+            min-height: 20px;
+            list-style-type: none;
+            margin: 0;
+            padding: 5px 0 0 0;
+            float: left;
+            margin-right: 10px;
+        }
+
+            #sortable1 li, #sortable2 li {
+                margin: 0 5px 5px 5px;
+                padding: 5px;
+                font-size: 1.2em;
+                width: 120px;
+            }
+        .items{
+            border: 1px solid #eee;
+        }
+    </style>
+    <script>
+    $(function () {
+        $("#sortable1, #sortable2,#sortable3").sortable({
+            connectWith: ".connectedSortable"
+        }).disableSelection();
+    });
+    </script>
+</head>
+<body>
+    <div class="center-block">
+        <ul id="sortable1" class="connectedSortable">
+            <li class="items">Item 1</li>
+            <li class="items">Item 2</li>
+            <li class="items">Item 3</li>
+            <li class="items">Item 4</li>
+            <li class="items">Item 5</li>
+        </ul>
+
+        <ul id="sortable2" class="connectedSortable">
+            <li class="items">Item 1</li>
+            <li class="items">Item 2</li>
+            <li class="items">Item 3</li>
+            <li class="items">Item 4</li>
+            <li class="items">Item 5</li>
+        </ul>
+        <div id="sortable3" class="connectedSortable">
+            <p>
+                Test1
+            </p>
+            <p>
+                Test2
+            </p>
+        </div>
+    </div>
+</body>
+</html>
