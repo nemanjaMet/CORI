@@ -14,8 +14,8 @@ namespace CORI.Controllers
         public ActionResult Index()
         
         {
-            DataLayer.DataLayer test = new DataLayer.DataLayer();
-            test.testing(6);
+           // DataLayer.DataLayer test = new DataLayer.DataLayer();
+          //  test.testing(6);
             return View();
         }
         public ActionResult App()
