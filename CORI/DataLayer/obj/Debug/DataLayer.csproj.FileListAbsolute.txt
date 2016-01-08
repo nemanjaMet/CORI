@@ -21,4 +21,3 @@ E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Common.xml
 E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Redis.xml
 E:\GitHub\CORI\CORI\DataLayer\bin\Debug\ServiceStack.Text.xml
 E:\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.pdb
-E:\GitHub\CORI\CORI\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
