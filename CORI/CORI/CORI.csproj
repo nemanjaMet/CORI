@@ -139,6 +139,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="JsonSerialize.cs" />
+    <Compile Include="Models\Stranica.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -179,6 +180,7 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\creative.css" />
+    <Content Include="css\Scrollers.css" />
     <Content Include="favicon.ico" />
     <Content Include="font-awesome\css\font-awesome.css" />
     <Content Include="font-awesome\css\font-awesome.min.css" />
@@ -221,6 +223,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="js\jquery.mousewheel.js" />
+    <Content Include="js\jquery.scrollbar.min.js" />
+    <Content Include="js\NasJqueryPageSetup.js" />
     <Content Include="less\creative.less" />
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
@@ -278,7 +283,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

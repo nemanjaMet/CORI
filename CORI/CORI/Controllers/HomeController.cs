@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CORI.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -14,14 +15,23 @@ namespace CORI.Controllers
         public ActionResult Index()
         
         {
-            DataLayer.DataLayer test = new DataLayer.DataLayer();
-            test.testing(6);
+           // DataLayer.DataLayer test = new DataLayer.DataLayer();
+          //  test.testing(6);
             return View();
         }
+        [HttpGet]
         public ActionResult App()
         {
             return View();
         }
-
+        [HttpPost]
+        public ActionResult App(Stranica test)
+        {
+            
+            JsonResult t = new JsonResult();
+            t.ContentType = "string";
+            t.Data = "Test";
+            return t;
+        }
     }
 }
