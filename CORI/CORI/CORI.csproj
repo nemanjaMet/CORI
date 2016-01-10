@@ -139,6 +139,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="JsonSerialize.cs" />
+    <Compile Include="Models\HtmlListModel.cs" />
     <Compile Include="Models\Stranica.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

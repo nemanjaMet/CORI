@@ -10,4 +10,10 @@ namespace CORI.Models
         public string ime { get; set; }
         public string html { get; set; }
     }
+
+    public class User
+    {
+        public string userName { get; set; }
+        public List<Stranica> pageList { get; set; }
+    }
 }
